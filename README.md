@@ -1,6 +1,6 @@
 # Intro to Data Analysis UD170
 
-I created this repository in order to refresh my Python skills related to data analysis. This is where I will add my solutions and notes that I've used for the following course on Udacity, [Intro to Data Analysis](https://classroom.udacity.com/courses/ud170).
+I created this repository in order to refresh my Python skills related to data analysis. This is where I added my solutions and notes from the following course on Udacity, [Intro to Data Analysis](https://eu.udacity.com/course/intro-to-data-analysis--ud170).
 
 #### Overview
 
